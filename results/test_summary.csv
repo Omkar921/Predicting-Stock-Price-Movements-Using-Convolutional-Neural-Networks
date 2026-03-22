@@ -1,0 +1,2 @@
+test_loss,test_accuracy,test_precision,test_recall,test_f1,test_threshold
+0.7347734192061046,0.5075,0.5490056818181818,0.6883348174532502,0.6108257605689451,0.48

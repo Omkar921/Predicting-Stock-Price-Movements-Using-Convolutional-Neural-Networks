@@ -1,0 +1,8 @@
+TEST METRICS
+========================================
+Threshold : 0.48
+Loss      : 0.7348
+Accuracy  : 0.5075
+Precision : 0.5490
+Recall    : 0.6883
+F1 Score  : 0.6108
